@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import AppSidebarProvider from "@/provider/app-sidebar-provider";
 
 export const metadata: Metadata = {
   title: "BackOffice",
@@ -13,7 +14,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko-KR">
-      <body>{children}</body>
+      <body>
+        <AppSidebarProvider>{children}</AppSidebarProvider>
+      </body>
     </html>
   );
 }

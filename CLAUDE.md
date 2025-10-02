@@ -57,3 +57,4 @@ This project uses pnpm workspaces with specific built dependencies configured in
 
 - 한글로 작성
 - Conventional Commits 준수
+- 수정 내역을 파악해서 연관된 것끼리 커밋
