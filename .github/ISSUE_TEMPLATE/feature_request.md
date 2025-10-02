@@ -1,20 +1,21 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
+title: ""
+labels: ""
+assignees: ""
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 어떤 기능인가요?
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+> 추가하려는 기능에 대해 간결하게 설명해주세요.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## 작업 상세 내용
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+- [ ] TODO
+- [ ] TODO
+- [ ] TODO
+
+## 참고할 만한 자료 (선택)
+
+> 참고할 만한 링크 또는 이미지를 알려주세요.
